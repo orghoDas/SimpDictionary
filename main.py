@@ -20,7 +20,7 @@ def translate(w):
             return "The word doesn't exist. Please check it"
 
         else:
-            return 'Sorry, We didnt underdstand your query'
+            return "Sorry, We didn't understand your query"
     
     else:
         return "The word doesn't exist. Please check it"
